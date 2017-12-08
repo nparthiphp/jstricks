@@ -1,4 +1,4 @@
-# jstricks
+# JS Tricks
 Javascript behaves differently oppose to our understanding.
 
 ## Numbers
